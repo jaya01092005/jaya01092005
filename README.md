@@ -1,4 +1,4 @@
-## Hi there it's Jayashree here ! 👋
+<p align="center"> ## Hi there, it's Jayashree here! 👋 </p>
 
 # 💫 About Me:
  I’m currently in my third year of Bachelor’s in Computer Science Engineering (AI & ML). I’m keen to work on projects in Machine Learning, Data Analysis, Web Development, and I’m currently exploring Mobile Development and Cloud Computing.<br><br>I have hands-on experience with Python, C++, Java, and building practical full-stack applications. I enjoy solving problems and have active coding profiles on LeetCode, CodeChef, and Codeforces, with 500+ problems solved.<br><br>My skill set includes machine learning, data structures and algorithms, database management, object-oriented programming, and UI/UX design. I love collaborating, learning new technologies, and turning ideas into real-world solutions!
