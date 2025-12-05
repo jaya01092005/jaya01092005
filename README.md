@@ -88,13 +88,7 @@ I enjoy building full-stack and ML-powered applications using Python, C++, Java,
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaya01092005&show_icons=true&theme=default&hide_border=true" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaya01092005&show_icons=true&locale=en" alt="jaya01092005" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaya01092005&theme=default&hide_border=true" />
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaya01092005&" alt="jaya01092005" /></p>
