@@ -89,6 +89,6 @@ I enjoy building full-stack and ML-powered applications using Python, C++, Java,
 ---
 
 
-
+## My GitHub stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaya01092005&" alt="jaya01092005" /></p>
