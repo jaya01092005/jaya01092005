@@ -1,37 +1,22 @@
 <h1 align="center">Hi 👋, I'm Jayashree</h1>
-<h3 align="center">
-I work on Machine Learning, NLP, Data Analysis, and Web Development.  
-I enjoy building full-stack and ML-powered applications using Python, C++, Java, and modern web technologies.
-</h3>
+<h3 align="center">I’m currently in my third year of Bachelor’s in Computer Science Engineering (AI & ML). I’m keen to work on projects in Machine Learning, Data Analysis, Web Development, and I’m currently exploring Mobile Development and Cloud Computing. I have hands-on experience with Python, C++, Java, and building practical full-stack applications. I enjoy solving problems and have active coding profiles on LeetCode, CodeChef, and Codeforces, with 500+ problems solved. My skill set includes machine learning, data structures and algorithms, object-oriented programming, and UI/UX design. I love collaborating, learning new technologies, and turning ideas into real-world solutions!</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaya01092005&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaya01092005&label=Profile%20views&color=0e75b6&style=flat" alt="jaya01092005" /> </p>
 
----
+- 🔭 I’m currently working on **Satellite Collision Prediction System**
 
-### 🔭 Current Project
-- **Satellite Collision Prediction System** — Machine Learning + Orbital Analytics
+- 📝 I regularly write articles on [https://medium.com/@jayamanik2005](https://medium.com/@jayamanik2005)
 
-### 📝 Articles  
-- I write on Medium: **https://medium.com/@jayamanik2005**
+- 📫 How to reach me **jayamanik2005@gmail.com**
 
-### 📫 Contact  
-- **jayamanik2005@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_JZEb3eK4ceMCl-E3scYfmVl2dzH90ok/view?usp=sharing](https://drive.google.com/file/d/1_JZEb3eK4ceMCl-E3scYfmVl2dzH90ok/view?usp=sharing)
 
-### 📄 Resume  
-- **https://drive.google.com/file/d/1_JZEb3eK4ceMCl-E3scYfmVl2dzH90ok/view?usp=sharing**
 
----
 
-## Connect with Me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://medium.com/@jayamanik2005" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
+<a href="https://medium.com/@jayamanik2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jayamanik2005" height="30" width="40" /></a>
 </p>
-
----
 
 # 🛠️ Languages & Tools
 
