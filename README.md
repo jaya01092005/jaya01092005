@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayashree</h1>
-<h3 align="center">I’m currently in my third year of Bachelor’s in Computer Science Engineering (AI & ML). I’m keen to work on projects in Machine Learning, Data Analysis, Web Development, and I’m currently exploring Mobile Development and Cloud Computing. I have hands-on experience with Python, C++, Java, and building practical full-stack applications. I enjoy solving problems and have active coding profiles on LeetCode, CodeChef, and Codeforces, with 500+ problems solved. My skill set includes machine learning, data structures and algorithms, object-oriented programming, and UI/UX design. I love collaborating, learning new technologies, and turning ideas into real-world solutions!</h3>
+<h3 align="center">I work on Machine Learning, NLP, Data Analysis, and Web Development. I enjoy building full-stack and ML-powered applications using Python, C++, Java, and modern web technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaya01092005&label=Profile%20views&color=0e75b6&style=flat" alt="jaya01092005" /> </p>
 
