@@ -84,5 +84,5 @@ I enjoy building full-stack and ML-powered applications using Python, C++, Java,
 
 ## My GitHub stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaya01092005&show_icons=true&locale=en" alt="jaya01092005" /></p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jaya01092005?cardType=github&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
 
