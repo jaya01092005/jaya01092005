@@ -10,17 +10,11 @@ I enjoy building full-stack and ML-powered applications using Python, C++, Java,
 
 ---
 
-### 🔭 Current Project
-- **Satellite Collision Prediction System** — Machine Learning + Orbital Analytics
-
 ### 📝 Articles  
 - I write on Medium: **https://medium.com/@jayamanik2005**
 
 ### 📫 Contact  
 - **jayamanik2005@gmail.com**
-
-### 📄 Resume  
-- **https://drive.google.com/file/d/1_JZEb3eK4ceMCl-E3scYfmVl2dzH90ok/view?usp=sharing**
 
 ---
 
