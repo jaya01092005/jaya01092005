@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Jayashree </h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaya01092005&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
 <p align="center">
 AI Engineering • Machine Learning • NLP  
 </p>
+
 
 <p align="center">
 I build AI-driven systems — from model training and evaluation to lightweight interfaces for real-world deployment.
