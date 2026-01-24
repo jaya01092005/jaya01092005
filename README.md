@@ -8,7 +8,7 @@ AI Engineering • Machine Learning • NLP
 
 
 <p align="center">
-I build AI-driven systems — from model training and evaluation to lightweight interfaces for real-world deployment.
+I design and build AI systems — from training and testing models to creating lightweight tools people can actually use.
 </p>
 
 <p align="center">
